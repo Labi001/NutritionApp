@@ -1,6 +1,6 @@
 This is a Kotlin Multiplatform project targeting Android, iOS.
 Build an Ecommerce App for Android & iOS
- ✔ Share the UI Layer using Compose Multiplatform framework      
+     
  ✔ From Figma to Jetpack Compose (UI Design process)      
  ✔ Clean Architecture for Scalable Apps                         
  ✔ Shopping Cart feature to allow Users to add Products
@@ -12,7 +12,7 @@ Build an Ecommerce App for Android & iOS
  ✔ Firebase KMP SDK
  ✔ Firebase Firestore (+ Security rules)                         
  ✔ Firebase Authentication   
- ✔ Suppabase Storage                                           
+ ✔ Supabase Storage                                           
  ✔ Push Notifications                    
 ✔ CRUD operations
 and more!!!
