@@ -7,8 +7,7 @@ Build an Ecommerce App for Android & iOS
  ✔ Automated Emails when a New Order is created                  
  ✔ Admin Panel
  ✔ Pay on Delivery feature                                       
- ✔ Pay with PayPal integration
- ✔ Kotlin Multiplatform technology                               
+ ✔ Pay with PayPal integration                              
  ✔ Firebase KMP SDK
  ✔ Firebase Firestore (+ Security rules)                         
  ✔ Firebase Authentication   
