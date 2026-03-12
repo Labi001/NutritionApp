@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "168975389588",
+    "project_id": "nutritionapp-483822",
+    "storage_bucket": "nutritionapp-483822.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:168975389588:android:75492c382023492dbc3581",
+        "android_client_info": {
+          "package_name": "com.labinot.bajrami.nutritionapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "168975389588-83nn3m8sjkpnl0sa432rem3mv1bqn9jc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.labinot.bajrami.nutritionapp",
+            "certificate_hash": "413a1516e47fe184786eb13d7386151cf7f21f2a"
+          }
+        },
+        {
+          "client_id": "168975389588-ca7lcpfep09s8iviie4e0j43e5pnpctb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlDMep8QmmZP_hxep_385W5wqq2hkS2cQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "168975389588-ca7lcpfep09s8iviie4e0j43e5pnpctb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
