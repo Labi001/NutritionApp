@@ -7,7 +7,6 @@ Build an Ecommerce App for Android & iOS
  ✔ Admin Panel
  ✔ Pay on Delivery feature                                       
  ✔ Pay with PayPal integration                              
- ✔ Firebase KMP SDK
  ✔ Firebase Firestore (+ Security rules)                         
  ✔ Firebase Authentication   
  ✔ Supabase Storage                                           
