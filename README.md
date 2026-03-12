@@ -4,7 +4,6 @@ Build an Ecommerce App for Android & iOS
  ✔ From Figma to Jetpack Compose (UI Design process)      
  ✔ Clean Architecture for Scalable Apps                         
  ✔ Automated Emails when a New Order is created                  
- ✔ Admin Panel
  ✔ Pay on Delivery feature                                       
  ✔ Pay with PayPal integration                              
  ✔ Firebase Firestore (+ Security rules)                         
